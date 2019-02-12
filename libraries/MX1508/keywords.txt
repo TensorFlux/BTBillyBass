@@ -1,0 +1,13 @@
+# -----------------------------------
+# Syntax coloring for MX1508 library
+# -----------------------------------
+
+# Datatypes (such as objects)
+MX1508	KEYWORD1
+
+# Methods / Functions
+forward	KEYWORD2
+backward	KEYWORD2
+halt	KEYWORD2
+
+# Constants
